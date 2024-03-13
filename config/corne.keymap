@@ -57,6 +57,6 @@
                              &kp LGUI &kp V   &tog 0   &kp RET   &trans    &kp RALT
                         >;
 
-				}
+				};
         };
 };
